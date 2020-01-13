@@ -9,7 +9,7 @@
 
 
 ## Installation
-Download and install it for windows in this link:cadd
+Download and install it for windows in this link:
 
 [Download](PUT.THE.LINK.HERE)
 
@@ -41,7 +41,7 @@ Windows:
 
 Diego Lopes Ferreira – [@Twitter](https://twitter.com/Diego45731776) – [@Instagram](https://www.instagram.com/diego.lopes.f/)
 
-Distributed under the MIT license. See [License.md]() for more information.
+Distributed under the MIT license. See [License.md](LICENSE.md) for more information.
 
 [github.com/Diego-Lopes-Ferreira](https://github.com/Diego-Lopes-Ferreira/)
 
